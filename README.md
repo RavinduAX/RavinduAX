@@ -1,5 +1,10 @@
+<img width="100%" height="160px" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+
 <h1 align="center">Hi 👋, I'm Ravindu Adassuriya</h1>
 <h3 align="center">A Full-Stack Developer</h3>
+
+<img align="right" width="500px" height="300px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
 - 🌱 I’m currently learning **JS**
 
