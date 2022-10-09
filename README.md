@@ -1,4 +1,4 @@
-<img width="100%" height="120px" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img width="100%" height="120px" src="https://raw.githubusercontent.com/RavinduAX/RavinduAX/main/banner.jpg">
 
 <h1 align="center">Hi 👋, I'm Ravindu Adassuriya</h1>
 <h3 align="center">A Full-Stack Developer</h3>
