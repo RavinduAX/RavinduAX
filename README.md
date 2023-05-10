@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [http://ravinduax.epizy.com/](http://ravinduax.epizy.com/)
 
-- 💬 Ask me about **Java , HTML , CSS**
+- 💬 Ask me about **Java , HTML , CSS , JS , React , Python**
 
 - 📫 How to reach me **ravinduadassuriya59@gmail.com**
 
@@ -17,7 +17,6 @@
 <a href="https://twitter.com/rav_a_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rav_a_369" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravindu-adassuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-adassuriya" height="30" width="40" /></a>
 <a href="https://fb.com/ravindu.adassuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.adassuriya" height="30" width="40" /></a>
-<a href="https://instagram.com/ravindu_ax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindu_ax" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
