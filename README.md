@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ravindu Adassuriya</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h1 align="center">👋, I'm Ravindu Adassuriya</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <img align="right" width="400px" height="250px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [http://ravinduax.epizy.com/](http://ravinduax.epizy.com/)
+- 👨‍💻 All of my projects are available at [https://ravinduax.github.io/portfolio-site/](https://ravinduax.github.io/portfolio-site/)
 
-- 💬 Ask me about **Java , HTML , CSS , JS , React , Python**
+- 💬 Ask me about **Java , HTML , CSS , JS , React , MERN Stack , Springboot , bootstrap , tailwind css**
 
-- 📫 How to reach me **ravinduadassuriya59@gmail.com**
+- 📫 How to reach me **ravinduadassuriya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rav_a_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rav_a_369" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravindu-adassuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-adassuriya" height="30" width="40" /></a>
-<a href="https://fb.com/ravindu.adassuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.adassuriya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
